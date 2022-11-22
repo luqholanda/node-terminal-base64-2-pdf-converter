@@ -1,5 +1,5 @@
 {
-  "name": "node-terminal-base64-2-pdf-converter",
+  "name": "@luqh/node-terminal-base64-2-pdf-converter",
   "version": "1.0.0",
   "description": "Create PDF from base64",
   "main": "index.js",
