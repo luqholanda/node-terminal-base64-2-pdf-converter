@@ -1,0 +1,14 @@
+{
+  "name": "node-terminal-base64-2-pdf-converter",
+  "version": "1.0.0",
+  "description": "Create PDF from base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Holanda Castelo Branco",
+  "license": "ISC",
+  "dependencies": {
+    "base64topdf": "^1.1.8"
+  }
+}
